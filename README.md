@@ -1,5 +1,4 @@
 # CyterFull
-<br></br>
 ## What this? 🤔
 Cyter is a DDoS script maked by Helezin
 <br></br>
