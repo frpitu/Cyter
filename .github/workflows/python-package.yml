@@ -5,9 +5,9 @@ name: CyterC2
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main/Cyter" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "main/Cyter" ]
 
 jobs:
   build:
