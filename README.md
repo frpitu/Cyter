@@ -12,6 +12,7 @@ The reason is that Helezin has several controversies involved with M4theus.wtfkk
 * Search **Python**
 * Click on the first link
 * Install 😃
+<br></br>
 ### 2. Load the script ▶️
 * Enter any debugger (be it Powershell or VS Code itself)
 * Put the command: ```sh python3 <diretory> ``` (If it is in VsCode you can just put the file name, otherwise it won't work)
